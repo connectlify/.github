@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/3A137755-1057-4A1B-A2CB-375F30336595.PNG" alt="Connectlify Logo" width="120" height="120">
+  <img src="3A137755-1057-4A1B-A2CB-375F30336595.PNG" alt="Connectlify Logo" width="120" height="120">
 </p>
 
 <h1 align="center">Connectlify</h1>

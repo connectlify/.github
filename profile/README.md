@@ -41,8 +41,8 @@ We are passionate about creating tools and platforms that are simple, reliable, 
 
 - **Frontend:** Next.js, TailwindCSS
 - **Backend:** Node.js, Express
-- **Database:** PostgreSQL, Redis
-- **Cloud:** Vercel, AWS (future)
+- **Database:** PostgreSQL, MongoDB
+- **Cloud:** Vercel, GCS
 
 ---
 

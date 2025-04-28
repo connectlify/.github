@@ -33,7 +33,7 @@ We are passionate about creating tools and platforms that are simple, reliable, 
 | ---------------------- | -------------------------------------------------- |
 | [`connectlify`](https://github.com/connectlify/connectlify) | Core platform and libraries |
 | [`class-connect`](https://github.com/connectlify/class-connect) | Educational connectivity system |
-| [`class-connect-next`](https://github.com/connectlify/class-connect-next) | Scalable and advanced integration |
+| [`class-connect-next`](https://github.com/connectlify/class-connect-next) | Previous version of Class Connect |
 
 ---
 

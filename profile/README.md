@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <a href="https://connectlify.kro.kr">Website</a> •
+  <a href="https://connectlify.dev">Website</a> •
   <a href="mailto:support@connectlify.kro.kr">Email</a> •
   <a href="https://github.com/connectlify">GitHub</a>
 </p>
@@ -58,7 +58,7 @@ Feel free to [open an issue](https://github.com/connectlify/connectlify/issues) 
 ## Contact
 
 - **Email:** [support@connectlify.kro.kr](mailto:support@connectlify.kro.kr)
-- **Website:** [Coming Soon]
+- **Website:** [Connectlify](https://connectlify.dev)
 
 ---
 
